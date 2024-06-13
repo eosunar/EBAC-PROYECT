@@ -97,7 +97,7 @@ header i img {
   padding: 25px;
   margin: 0;
   box-sizing: border-box;
-  background-color: white;
+  background-color: rgb(190, 173, 173);
   height: 100%;
   position: fixed;
   right: -50%;
